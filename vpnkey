@@ -1,138 +1,79 @@
 [
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZmhOeVNpeUZXdHFQcFNqdGJ1MTE3@34.126.122.30:11969/?outline=1",
-
-"icon":"https://cdn-icons-png.flaticon.com/512/197/197496.png",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-},
-{
-
-
-"key":"
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWenpMbHpicDlKczlSSk9xcllGSVk4@34.126.122.30:11969/?outline=1",
-
-"icon":"https://cdn-icons-png.flaticon.com/512/197/197496.png",
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-
-"type":"GCP"
-
-},
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNnp4R3NIZkxXYjhyYzRBS2FldmI2@34.126.122.30:11969/?outline=1",
-
-"icon":"https://cdn-icons-png.flaticon.com/512/197/197496.png",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-}, 
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdWprOE8xSUltNUhJdGt2T2ZZOEZk@34.126.122.30:11969/?outline=1",
-
-"icon":"https://cdn-icons-png.flaticon.com/512/197/197496.png",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-},
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTDVBYW1FY1gxdWc4OVV5S1hJTlJE@34.126.122.30:11969/?outline=1",
-
-"icon":"https://cdn-icons-png.flaticon.com/512/197/197496.png",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-},
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbTg3VUN4RDNEZm5iOWRKTTF3cDA5@34.27.87.116:45028/?outline=1",
-
-"icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodgYCmNCpdXmb5TcUn3q1MP5FzM-izBMPgIXykAXpEw&s",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-},
-
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT2hlUUdHYVZTTWpYQmIyOEhwaDRo@34.27.87.116:45028/?outline=1",
-
-"icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodgYCmNCpdXmb5TcUn3q1MP5FzM-izBMPgIXykAXpEw&s",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-}
-,
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMHU5VGtJUzVtME5Oc1c2QmFUV0Vv@34.27.87.116:45028/?outline=1",
-
-"icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodgYCmNCpdXmb5TcUn3q1MP5FzM-izBMPgIXykAXpEw&s",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-},
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcWFNM3ZJQzZHcHlrVnF5b1B2TEE3@34.27.87.116:45028/?outline=1",
-
-"icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodgYCmNCpdXmb5TcUn3q1MP5FzM-izBMPgIXykAXpEw&s",
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-
-"type":"GCP"
-
-},
-
-{
-
-
-"key":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTWVpVFBEUnBicGNUNExMUm82TWdz@34.27.87.116:45028/?outline=1",
-
-"icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodgYCmNCpdXmb5TcUn3q1MP5FzM-izBMPgIXykAXpEw&s",
-
-"start_date":"13.4.2023",
-
-"end_date":"13.5.2023",
-"type":"GCP"
-
-}
-
-
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVFEyWg==@cyberbullet-australia.duckdns.org:8388#KeyPro-AU",
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/au.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Australia"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFkwTQ==@cyberbullet-canada.duckdns.org:8388#KeyPro-CA",
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/ca.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Canada"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZak5rTg==@cyberbullet-france.duckdns.org:8388#sshOcean-fr03",
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/fr.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "France"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelF6Tw==@cyberbullet-germy.duckdns.org:8388#KeyPro-DE",
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/de.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Germany"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1prTg==@cyberbullet-indoneisa.duckdns.org:8388#KeyPro-Indo",                                                                          
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/id.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Indonesia"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNalV4TQ==@cyberbullet-lithuania.duckdns.org:8388#KeyPro-LT",                                                                            
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/lt.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Lithuania"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOemhtTw==@cyberbullet-netherlands.duckdns.org:8388#KeyPro-NL",                                                                          
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/nl.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Netherlands"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR0l3WQ==@cyberbullet-poland.duckdns.org:8388#KeyPro-PL",                                                                               
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/pl.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Poland"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNamxsTw==@cyberbullet-singapore.duckdns.org:8388#KeyPro-SG",                                                                            
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/sg.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "Singapore"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOek16Wg==@cyberbullet-united-kingdom.duckdns.org:8388#KeyPro-UK",                                                                       
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/uk.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "United-Kingdom"
+  },
+  {
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJtTw==@cyberbullet-united-states.duckdns.org:8388#KeyPro-US",                                                                        
+    "icon": "https://sshocean.com/assets/flag-icon/flags/4x3/us.svg",
+    "start_date": "1",
+    "end_date": "2",
+    "type": "United-States"
+  }
 ]
