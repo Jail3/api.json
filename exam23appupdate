@@ -1,20 +1,7 @@
-[{
+{
   "versionCode":"3",
   "versionName":"1.0",
-  "titel":"Please update your app",
-  "message":"this is message",
+  "contentText":"Please update your app",
+  "minSupport":1,
   "url":"https://play.google.com/store/apps/details?id=com.foodie.mmapp"
-},
-{
-  "examdate":"2023.6.6",
-  "examtime":"12.00.00.am",
-  "message":"No Exam"
-},
-
-{
-  "banner":"ca-app-pub-3940256099942544/6300978111",
-  "inter":"ca-app-pub-3940256099942544/1033173712",
-  "open":"ca-app-pub-3940256099942544/3419835294",
-  "app_id":"ca-app-pub-3750421843087191~5058092543"
 }
-]
